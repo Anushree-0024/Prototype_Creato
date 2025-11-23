@@ -1,6 +1,6 @@
 # Prototype_Creato
 
-Prototype Link:
+Prototype Link: https://neat-spout-49246973.figma.site
 
 PRD :  https://docs.google.com/document/d/1QSPLri-4Gqlmm8MJWEcDskAiUDxW0nLVqYaCj-914fg/edit?usp=sharing
 
