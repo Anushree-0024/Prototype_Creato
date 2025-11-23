@@ -2,7 +2,7 @@
 
 Prototype Link:
 
-Document :  https://docs.google.com/document/d/1QSPLri-4Gqlmm8MJWEcDskAiUDxW0nLVqYaCj-914fg/edit?usp=sharing
+PRD :  https://docs.google.com/document/d/1QSPLri-4Gqlmm8MJWEcDskAiUDxW0nLVqYaCj-914fg/edit?usp=sharing
 
 Prompt - Build for habit: Conceptualise a product to help people build and sustain better habits. It could be around health, learning, productivity, relationships, money, or 
 Something else - up to you.
